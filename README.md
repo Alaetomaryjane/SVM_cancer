@@ -5,10 +5,9 @@
 
 ### AIM: The aim of this project is to develop a machine learning model using Support Vector Machines to classify human cell records and predict whether cell samples are benign or malignant thereby assisting in early cancer detection.
 
-### DATA DESCRIPTION: The dataset used for this project was sourced from the UCI Machine Learning Repository and contains 699 samples of human cell data for breast cancer classification. Each sample represents features extracted from images of cell nuclei obtained during a fine needle aspiration (FNA) of a breast mass.
-
+#### DATA DESCRIPTION: The dataset used for this project was sourced from the UCI Machine Learning Repository and contains 699 samples of human cell data for breast cancer classification. Each sample represents features extracted from images of cell nuclei obtained during a fine needle aspiration (FNA) of a breast mass.
+- Data Source: https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/cell_samples.csv
 - Number of features: There are 9 features
-
 - Target variables: Class(Benign = 2.0, malignant = 4.0)
 
 ### DEVELOPMENT PROCESS: 
